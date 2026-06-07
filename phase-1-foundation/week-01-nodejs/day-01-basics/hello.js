@@ -1,1 +1,0 @@
-console.log("Day 1 - Backend Journey Start!");
