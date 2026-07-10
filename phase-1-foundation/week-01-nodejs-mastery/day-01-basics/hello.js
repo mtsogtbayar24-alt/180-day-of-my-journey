@@ -1,1 +1,1 @@
-console.log("Day 1 - Backend Journey Start!");
+console.log("Backend Engineer Day 1")
