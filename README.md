@@ -1,7 +1,7 @@
 # 180-Day Backend Engineer Journey
 
-> Start: July 11, 2026
-> End: January 6, 2027
+> Start: July 16, 2026
+> End: January 11, 2027
 > Goal: Backend Engineer + Freelance + FAANG Ready
 
 ## 🎯 Goals
