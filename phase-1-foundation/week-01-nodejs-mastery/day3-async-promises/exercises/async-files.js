@@ -28,7 +28,7 @@ async function main() {
 
   //Task 2
   const data = await fs.readFile("notes.txt", "utf-8");
-  console.log("File content:");
+  console.log("File contents:");
   console.log(data);
 }
 
